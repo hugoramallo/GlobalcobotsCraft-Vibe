@@ -1,0 +1,8 @@
+{
+  "name": "Piedra_papel_tijera_gemini",
+  "description": "Juego de Piedra, Papel o Tijera controlado por gestos con visión artificial y comentarios de IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
